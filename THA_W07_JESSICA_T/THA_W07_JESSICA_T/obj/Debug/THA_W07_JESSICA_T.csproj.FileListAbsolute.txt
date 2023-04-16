@@ -1,0 +1,11 @@
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\bin\Debug\THA_W07_JESSICA_T.exe.config
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\bin\Debug\THA_W07_JESSICA_T.exe
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\bin\Debug\THA_W07_JESSICA_T.pdb
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.csproj.AssemblyReference.cache
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.Form1.resources
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.Properties.Resources.resources
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.csproj.GenerateResource.cache
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.exe
+C:\Users\windows 10\source\repos\THA_W07_JESSICA_T\THA_W07_JESSICA_T\obj\Debug\THA_W07_JESSICA_T.pdb
